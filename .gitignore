@@ -1,0 +1,31 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de sistema operativo
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# Archivos de Office o exportaciones
+*.xlsx
+*.xls
+*.csv
+
+# Archivos de Google Drive (si sincronizas)
+*.gsheet
+*.gdoc
+
+# Archivos de configuración local
+.env
+*.swp
+*.swo
+
+# Carpeta de respaldo o pruebas
+/backups/
